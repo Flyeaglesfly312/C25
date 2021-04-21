@@ -1,2 +1,2 @@
-# C25
-Loading the images and the background for the sprites.
+# p5.play-boilerplate
+Boiler plate for p5.play
